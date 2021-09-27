@@ -27,6 +27,13 @@ console.log(macbook.parant !== undefined);
 console.log('retail' in macbook);
 
 
+// 띄어쓰기가 있을경우
+
+/* myVoca['default value'] = '기본값'
+
+ */
+
+
 
 
 
