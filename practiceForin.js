@@ -13,5 +13,6 @@ let appleComputer = {
 }
 
 for (let k in appleComputer){
+    let total = 0
     console.log(k);
 }
