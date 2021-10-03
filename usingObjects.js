@@ -2,7 +2,7 @@
 
 let macbook = {
     name : 'KimMacbook',
-    bornYear: 2018,
+    bornYear: '2018',
     parant : 'Apple',
     retail : {
         shoppingmallName : '쿠팡',
